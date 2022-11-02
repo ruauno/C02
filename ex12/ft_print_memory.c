@@ -71,3 +71,13 @@ void	*ft_print_memory(void *addr, unsigned int size)
 	}
 	return (addr);
 }
+/*
+int     main(void)
+{
+	int i;
+
+	char str[] = "test134253243423424324342323443234124354635jhdfgsadgfgfwqr\t\n\r3221";
+	i = 65;
+	ft_print_memory(str, i);
+}
+*/
